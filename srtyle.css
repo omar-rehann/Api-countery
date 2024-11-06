@@ -1,0 +1,45 @@
+body {
+    background-color: #ddd;
+}
+
+.continer {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.continer h4 {
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.continer input {
+    width: 80%;
+    padding: 10px;
+    border: none;
+    background-color: #ddd;
+    border-radius: 10px;
+}
+
+.continer span {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.continer .show_data h4.eror {
+    background-color: red;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.continer .show_data img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    margin: 10px 10px;
+}
